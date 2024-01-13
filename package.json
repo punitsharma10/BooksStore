@@ -1,6 +1,6 @@
 {
-  "homepage": "https://punitsharma10.github.io/BooksStore",
-  "name": "frontend",
+  "homepage": "https://punitsharma10.github.io",
+  "name": "BooksStore",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
